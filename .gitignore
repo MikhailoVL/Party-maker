@@ -1,4 +1,8 @@
-/venv/
 .idea
 Party_maker/__pycache__/
+event/__pycache__/
+ticket/__pycache__/
+users/__pycache__/
 /venvmp/
+.gitignore
+__init__.py
