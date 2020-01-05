@@ -1,8 +1,8 @@
 .idea
 Party_maker/__pycache__/
-event/__pycache__/
-ticket/__pycache__/
-users/__pycache__/
+Party_maker/event/__pycache__/
+Party_maker/ticket/__pycache__/
+Party_maker/users/__pycache__/
 /venvmp/
 .gitignore
 __init__.py
